@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "md5": "^2.2.1",
-    "mqtt": "^3.0.0"
+    "mqtt": "^4.3.7"
   }
 }
